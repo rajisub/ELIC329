@@ -11,9 +11,9 @@ This repository contains a four-project report website built with GitHub Pages a
 You now have your own copy of the project report template
 
 ## Step 2: Enable GitHub pages
-6. On your repository, go to **Settings → Pages**.
+6. On your repository, go to **Settings >> Pages**.
 7. Under **Build and deployment**, choose **Deploy from a branch**, select `main` and `/(root)`, then **Save**.
-8. Wait for the published site link to appear under **Settings → Pages**. Its typical address is `https://USERNAME.github.io/REPOSITORY_NAME/`.
+8. Wait for the published site link to appear under **Settings >> Pages**. Its typical address is `https://USERNAME.github.io/REPOSITORY_NAME/`.
 9. Open `index.md`, click the pencil icon, replace the bracketed placeholders, and commit changes.
     
 ## Step 3: Complete your project reports
