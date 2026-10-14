@@ -24,7 +24,7 @@ You now have your own copy of the project report template
     - project4.md
     
 10. Edit `projects/project1.md` through `projects/project4.md`. Preserve the YAML front matter (the lines between `---` at the top).
-    For each project include - 
+    For each project include: 
         - Introduction: project idea and objectives
         - Design: explanation of design and labelled block diagram, explanation of code blocks or sections (key parts).
         - Code: design source, testbench and relevant XDC
