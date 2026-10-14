@@ -18,10 +18,10 @@ You now have your own copy of the project report template
     
 ## Step 3: Complete your project reports
 10. Open the projects folder. It contains four Markdown files:
-    project1.md
-    project2.md
-    project3.md
-    project4.md
+    - project1.md
+    - project2.md
+    - project3.md
+    - project4.md
     
 10. Edit `projects/project1.md` through `projects/project4.md`. Preserve the YAML front matter (the lines between `---` at the top).
     For each project include - 
