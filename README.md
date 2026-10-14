@@ -25,12 +25,12 @@ You now have your own copy of the project report template
     
 10. Edit `projects/project1.md` through `projects/project4.md`. Preserve the YAML front matter (the lines between `---` at the top).
     For each project include - 
-        - [ ] Introduction: project idea and objectives
-        - [ ] Design: explanation and labelled block diagram
-        - [ ] Code: design VHDL, testbench and relevant XDC, with explanations
-        - [ ] Simulation: waveforms for all required scenarios and analysis of expected vs. observed results
-        - [ ] Hardware: elaborated and synthesized schematics, implementation, utilization and Basys3 behaviour
-        - [ ] Reflection: challenges/resolutions and learning linked to theory
+        - Introduction: project idea and objectives
+        - Design: explanation of design and labelled block diagram, explanation of code blocks or sections (key parts).
+        - Code: design source, testbench and relevant XDC
+        - Simulation: waveforms for all required scenarios and analysis of expected vs. observed results
+        - Hardware: elaborated and synthesized schematics, implementation, utilization and Basys3 behaviour
+        - Reflection: challenges/resolutions and learning linked to theory
 11. Upload VHDL files, testbenches and XDC constraints to the corresponding `source/projectN/` folder.
 12. Upload figures/screenshots/photos to `assets/projectN/`. Match the filenames used in the Markdown or update the image links.
 13. Add working source links in each project's **Code** section. For example, a relative Markdown link from `projects/project1.md` to a repository file can be written as `[design.vhd](../source/project1/design.vhd)`;  
