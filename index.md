@@ -1,8 +1,7 @@
 # Digital Systems Design Portfolio
 
-**Student (first name):** [Name(s)]  
+**Name:** [First Name]  
 **Course/Section:** [Course and section]  
-**Semester:** [Semester]
 
 This portfolio documents four digital systems design projects, including design, VHDL source code, simulation verification, FPGA implementation and reflection.
 
