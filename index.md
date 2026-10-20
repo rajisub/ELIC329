@@ -1,11 +1,6 @@
----
-layout: default
-title: Digital Systems Design Portfolio
----
-
 # Digital Systems Design Portfolio
 
-**Student(s):** [Name(s)]  
+**Student (first name):** [Name(s)]  
 **Course/Section:** [Course and section]  
 **Semester:** [Semester]
 
