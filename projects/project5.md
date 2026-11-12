@@ -13,7 +13,7 @@
 - **System block diagram:** [Insert an image or a link to your diagram.]
 
 ## Weekly Development
-Update each page before its weekly milestone demonstration.
+Update each page along with weekly milestone demonstration.
 
 | Week | Milestone | Documentation |
 |---|---|---|
