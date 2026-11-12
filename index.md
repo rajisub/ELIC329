@@ -1,4 +1,4 @@
-# Digital Systems Design Portfolio
+# Digital and Embedded Systems - Project Portfolio
 
 **Name:** [First Name]  
 **Course/Section:** [Course and section]  
