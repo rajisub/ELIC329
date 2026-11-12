@@ -13,4 +13,4 @@ It also includes a final project on embedded system for audio processing.
 3. [Project 3 — Add title](projects/project3.html)
 4. [Project 4 — Add title](projects/project4.html)
 5. [Project 5 (Final Multi-week course project) — Add title](projects/project5.html)
-> Replace all bracketed placeholders with your own content. See the repository README for instructions.
+> Replace all bracketed [] placeholders with your own content. See the repository README for instructions.
