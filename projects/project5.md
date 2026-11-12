@@ -5,7 +5,7 @@
 **Microcontroller:** [ESP32 / RP2040 / other]  
 
 ## Project Overview
-In 3–5 sentences, explain what your audio application does and why you selected it.
+[Explain your specific audio application (selected for your group)]
 
 ## System Design
 - **Main hardware:** [Microcontroller, I²S microphone, DAC/amplifier, speaker, other parts]
