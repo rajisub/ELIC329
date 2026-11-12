@@ -21,6 +21,7 @@ Update each page along with weekly milestone demonstration.
 | 2 | Audio Interface Development | [Week 2](project5/week2.md) |
 | 3 | Audio Sampling and Basic DSP | [Week 3](project5/week3.md) |
 | 4 | Application Development | [Week 4](project5/week4.md) |
+| 5&6 | Integration and Testing | [see info below] |
 
 ## Final System and Results
 - **Final functionality:** [Briefly describe what works in the completed system.]
