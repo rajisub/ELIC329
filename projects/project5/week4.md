@@ -12,13 +12,13 @@ Briefly introduce the application functions developed this week and the progress
 
 Explain the application-specific audio processing algorithm and its main settings. Describe how audio input, processing, and playback are integrated, including buffering or block processing where applicable. Link to key source files and relevant diagrams.
 
-[Summarize your work here and add links to supporting files.]
+[Summarize your work here]
 
 ## 3. Testing and Results
 
 Describe tests of the application’s main features and real-time operation. Explain what worked, what did not, and how you verified the audio effect. Link to recordings, measurements, screenshots, or short demonstrations.
 
-[Describe your tests, actual results, and evidence here.]
+[Describe your tests, actual results, and supporting evidence here.]
 
 ## 4. Challenges and Solutions
 
