@@ -11,5 +11,5 @@ This portfolio documents four digital systems design projects, including design,
 2. [Project 2 — Add title](projects/project2.html)
 3. [Project 3 — Add title](projects/project3.html)
 4. [Project 4 — Add title](projects/project4.html)
-
+5. [Project 5 — Add title](projects/project5.html)
 > Replace all bracketed placeholders with your own content. See the repository README for instructions.
