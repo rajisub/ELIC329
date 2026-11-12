@@ -4,6 +4,7 @@
 **Course/Section:** [Course and section]  
 
 This portfolio documents four digital systems design projects, including design, VHDL source code, simulation verification, FPGA implementation and reflection.
+It also includes a final project on embedded system for audio processing.
 
 ## Project Reports
 
